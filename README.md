@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0231-power-of-two) |
+| [3765-complete-prime-number](https://github.com/aftab-rishad/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,8 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0204-count-primes) |
+| [3765-complete-prime-number](https://github.com/aftab-rishad/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0204-count-primes) |
+| [3765-complete-prime-number](https://github.com/aftab-rishad/leetcode-solutions/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
