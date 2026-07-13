@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/aftab-rishad/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/aftab-rishad/leetcode-solutions/tree/master/3765-complete-prime-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
