@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aftab-rishad/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3765-complete-prime-number](https://github.com/aftab-rishad/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Bit Manipulation
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aftab-rishad/leetcode-solutions/tree/master/0204-count-primes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aftab-rishad/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Enumeration
 |  |
 | ------- |
